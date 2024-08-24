@@ -26,6 +26,8 @@ h1 {
     text-transform: uppercase;
     font-family: "Coiny", sans-serif;
     color: #fafaf9;
+    background-color: red;
+    padding: 50px;
 }
 
 .fact {
@@ -42,6 +44,8 @@ h1 {
     font-size: 14px;
     font-family: "Coiny", sans-serif;
     color: #fafaf9;
+    background-color: red;
+    padding: 50px;
 }
 
 ul {
